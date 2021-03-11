@@ -1,3 +1,6 @@
 .terraform
 *.log
 *.backup
+
+# Terraform State
+*.tfstate
